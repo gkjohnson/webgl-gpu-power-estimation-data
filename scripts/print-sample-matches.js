@@ -1,4 +1,4 @@
-const { database } = require('../umd/database.js');
+const database = require('../data/database.json');
 const { findMatch } = require('../umd/utils.js');
 const fs = require('fs');
 const path = require('path');
