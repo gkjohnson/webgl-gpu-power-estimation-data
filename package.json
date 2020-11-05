@@ -1,7 +1,6 @@
 {
   "name": "webgl-gpu-power-estimation-data",
   "private": true,
-  "version": "1.0.0",
   "scripts": {
     "regenerate-database": "node scripts/generate-normalized-database.js",
     "regenerate-match-list": "node scripts/generate-match-list.js",
