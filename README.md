@@ -6,4 +6,6 @@ Repository of data scraped from various GPU benchmark websites and associated sc
 - [techpowerup.com](https://www.techpowerup.com/gpu-specs/)
 - [notebookcheck.net](https://www.notebookcheck.net/Mobile-Graphics-Cards-Benchmark-List.844.0.html).
 
+## License Information
+
 The scraped graphics card data provided in this repo is subject to the terms of the respective websites. Data and scripts are available to use as long as the data source and ownership are acknowledged. Repo contents should not be distributed in separate packages.
